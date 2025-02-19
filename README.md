@@ -1,0 +1,1 @@
+Possesses a responsive design. 
